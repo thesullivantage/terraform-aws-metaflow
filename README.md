@@ -2,9 +2,7 @@
 
 # Metaflow Terraform module
 
-__Contains infrastructure as code (IaC) I have lifted for Soar Aviation Solutions for running production ML workloads through the metaflow library (using Argo workflows as a Kubernetes backend) on Kubernetes clusters. Much modification is required for production.
-
----
+__Contains infrastructure as code (IaC) lifted for running production ML workloads through the metaflow library (using Argo workflows as a Kubernetes backend) on Kubernetes clusters for Soar Aviation Solutions. Much modification is required for productionizing.__
 
 ---
 
